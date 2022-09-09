@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "6f4e021f-c47e-469e-b2cb-951c104196cf",
+      "name": "test",
+      "email": "dipesh4@gmail.com"
+    },
+    {
+      "id": "86cbe2df-37cd-47bb-a2fc-55b4df1b3e96",
+      "name": "test2",
+      "email": "test2@gmail.com"
+    },
+    {
+      "id": "2a4094a9-d56b-403c-bfe7-96743e7d7e68",
+      "name": "Dipesh",
+      "email": "dipesh2@gmail.com"
+    },
+    {
+      "id": "70887176-fd1e-4b7d-ba27-53cfbf50f7a7",
+      "name": "Dipesh",
+      "email": "dipesh2@gmail.com"
+    },
+    {
+      "id": "018afbd7-8258-4e9f-a00b-7d0f65b527f3",
+      "name": "hello",
+      "email": "hello@gmail.com"
+    },
+    {
+      "id": "25dacb0b-8402-4f93-9337-9f99455c8dfb",
+      "name": "Dipesh",
+      "email": "dipesh2@gmail.com"
+    },
+    {
+      "id": "0fc628a8-bcd2-4c03-aeb8-0f6eedcc7166",
+      "name": "Mrinal",
+      "email": "mrinalb1064@gmail.com"
+    },
+    {
+      "id": "5daef85f-b2b6-4ac2-b7a6-0f7719d2dde1",
+      "name": "Dipesh",
+      "email": "dip2@gmail.com"
+    },
+    {
+      "id": "490b2f72-8760-4ea6-a068-3621c5db626d",
+      "name": "marketing-marvels",
+      "email": "a"
+    }
+  ]
+}
